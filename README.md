@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pelstix a Devops intern
+- 👋 Hi, I’m @pelstix a Devops Engineer
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Data science and AI
 - 💞️ I’m looking to collaborate on ...
